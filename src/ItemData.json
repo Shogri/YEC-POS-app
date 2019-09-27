@@ -1,0 +1,140 @@
+{
+  "ItemList": {
+    "item1": {
+          "name": "Mom Crew Neck",
+          "price": 34.95,
+          "src": "https://www.bookstore.yorku.ca/outerweb/product_images/CREW_NECK_MOM_L.jpg",
+          "description": "Comfy crew neck style sweatshirt, the perfect gift for Mom; 80% Cotton, 20% Polyester; Machine wash; Size and fit: Model is 5’4” wearing a Small",
+          "id": "#SWW3467",
+          "category": "Womens"
+    },
+    "item2": {
+          "name": "Unisex Deluxe Hood",
+          "price": 59.95,
+          "src": "https://www.bookstore.yorku.ca/outerweb/product_images/UNISEX_DELUXE_HOOD_L.jpg",
+          "description": "Hooded unisex sweatshirt, perfect for a cozy fall day; 90% Cotton, 10% Polyester; Machine wash; Size and fit: Model is 6’0” and male, wearing a Large",
+          "id": "#SWU2637",
+          "category": "Womens"
+    },
+    "item3": {
+          "name": "Unisex French Terry Hood",
+          "price": 62.95,
+          "src": "https://www.bookstore.yorku.ca/outerweb/product_images/WOMENS_TWILL_HOODIE_L.jpg",
+          "description": "Thin, hooded unisex sweatshirt, perfect for warmer fall days; 70% Cotton, 30% Polyester; Machine wash cold; Size and fit: Model is 5’8” and male, wearing a Medium",
+          "id": "#SWU9940",
+          "category": "Womens"
+      },
+    "item4": {
+          "name": "Renu Her Work Sock Crew",
+          "price": 70.00,
+          "src": "https://www.bookstore.yorku.ca/outerweb/product_images/RENU_HER_WORK_SOCK_CREW_L.jpg",
+          "description": "Knit crew neck style sweatshirt; 55% Cotton, 25% Acrylic, 15% Nylon, 5% Wool; Machine wash; Size and Fit: Model is 5’5” wearing a Small",
+          "id": "#SWW7734",
+          "category": "Womens"
+      },
+    "item5": {
+          "name": "Womens ¼ Zip Fleece",
+          "price": 69.95,
+          "src": "https://www.bookstore.yorku.ca/outerweb/product_images/WOMENS_QUARTER_ZIP_FLEECE_SWEATER_L.jpg",
+          "description": "Fleece knit zip-up sweater for cold winter nights; 60% Fleece, 40% Cotton; Machine wash cold; Size and fit: Model is 5’6”, wearing a Medium",
+          "id": "#SWW9463",
+          "category": "Womens"
+      },
+    "items6": {
+        "name": "Bruzer Cable Knit Crew",
+        "price": 92.00,
+        "src": "https://www.bookstore.yorku.ca/outerweb/product_images/BRUZER_CABLE_KNIT_CREW_L.jpg",
+        "description": "Fleece knit zip-up sweater for cold winter nights; 60% Fleece, 40% Cotton; Machine wash cold; Size and fit: Model is 5’9”, wearing a Medium",
+        "id": "#BCKC92",
+        "category": "Mens"
+    },
+    "items7": {
+        "name": "Bruzer Work Sock Crew grey",
+        "price": 92.00,
+        "src": "https://www.bookstore.yorku.ca/outerweb/product_images/BRUZER_WORK_SOCK_CREW_GR_L.jpg",
+        "description": "Knit crew neck style sweatshirt; 55% Cotton, 25% Acrylic, 15% Nylon, 5% Wool; Machine wash; Size and Fit: Model is 6'0” wearing a Medium",
+        "id": "#BWSC92",
+        "category": "Mens"
+    },
+    "items8": {
+        "name": "Men's Deluxe Hoodie",
+        "price": 59.95,
+        "src": "https://www.bookstore.yorku.ca/outerweb/product_images/MENS_DELUXE_HOOD_L.jpg",
+        "description": "Hooded sweatshirt, perfect for a cozy fall day; 90% Cotton, 10% Polyester; Machine wash; Size and fit: Model is 6’0” and male, wearing a Large",
+        "id": "MDH59",
+        "category": "Mens"
+    },
+    "items9": {
+        "name": "Men's French Terry Hoodie",
+        "price": 68.95,
+        "src": "https://www.bookstore.yorku.ca/outerweb/product_images/MENS_FRENCH_TERRY_HOOD_L.jpg",
+        "description": "Knit crew neck style sweatshirt; 55% Cotton, 25% Acrylic, 15% Nylon, 5% Wool; Machine wash; Size and Fit: Model is 5’10” wearing a Large",
+        "id": "MFTH68",
+        "category": "Mens"
+    },
+    "items10": {
+        "name": "Men's Twill Hooded Sweatshirt",
+        "price": 62.95,
+        "src": "https://www.bookstore.yorku.ca/outerweb/product_images/MENS_TWILL_HOODIE_L.jpg",
+        "description": "Comfy crew neck style sweatshirt; 80% Cotton, 20% Polyester; Machine wash; Size and fit: Model is 5’10” wearing a Small",
+        "id": "MTHS62",
+        "category": "Mens"
+    },
+    "items11": {
+      "name": "Mens ¼ Zip Fleece",
+      "price": 69.95,
+      "src": "https://www.bookstore.yorku.ca/outerweb/product_images/MENS_QUARTER_ZIP_FLEECE_SWEATER_L.jpg",
+      "description": "Fleece knit zip-up sweater for cold winter nights; 60% Fleece, 40% Cotton; Machine wash cold; Size and fit: Model is 6’1”, wearing a Medium",
+      "id": "#SWW9463",
+      "category": "Mens"
+    },
+    "items12": {
+      "name": "4 in 1 Pen",
+      "price": 13.95,
+      "src": "https://www.bookstore.yorku.ca/outerweb/product_images/PEN_WITH_STYLUS_LASER_FLASHLIGHT_L.jpg",
+      "description": "4-in-1 Pen with stylus, laser pointer, and flashlight",
+      "id": "#4I1P",
+      "category": "Gifts"
+    },
+    "items13": {
+      "name": "Business Card Holder",
+      "price": 12.95,
+      "src": "https://www.bookstore.yorku.ca/outerweb/product_images/12955589L.jpg",
+      "description": "Gold Plated, Personally engraved business card holder perfect for YorkU Alumnis",
+      "id": "#BCH12",
+      "category": "Gifts"
+    },
+    "items14": {
+      "name": "Cross Calais Ball Point Pen",
+      "price": 49.95,
+      "src": "https://www.bookstore.yorku.ca/outerweb/product_images/CROSS_CALAIS_BALL_POINT_PEN_L.jpg",
+      "description": "Smooth black ink pen in a silver casing, comes with two ink refills",
+      "id": "#CCBP49",
+      "category": "Gifts"
+    },
+    "items15": {
+      "name": "Graduation Bear",
+      "price": 28.95,
+      "src": "https://www.bookstore.yorku.ca/outerweb/product_images/13227371L.jpg",
+      "description": "This classic gift is great for any York University Graduate as a memento for their time here at York",
+      "id": "#GB28",
+      "category": "Gifts"
+    },
+    "items16": {
+      "name": "Dad Ceramic Mug",
+      "price": 12.95,
+      "src": "https://www.bookstore.yorku.ca/outerweb/product_images/YORK_DAD_CERAMIC_MUG_L.jpg",
+      "description": "This gift is great for your Dad as a holiday gift, or Father's Day present",
+      "id": "#DCM7",
+      "category": "Gifts"
+    },
+    "items17": {
+      "name": "Mom Ceramic Mug",
+      "price": 12.95,
+      "src": "https://www.bookstore.yorku.ca/outerweb/product_images/YORK_MOM_CERAMIC_MUG_L.jpg",
+      "description": "This gift is great for your Mom as a holiday gift, or Mother's Day present",
+      "id": "#MCM7",
+      "category": "Gifts"
+    }
+  }
+}

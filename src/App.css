@@ -1,0 +1,409 @@
+
+
+.extraPadding {
+  margin-left: 300px;
+}
+
+.leftItems {
+  height: 500px;
+}
+
+.button2:hover {
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.button3 {
+position: absolute;
+top: 700px;
+
+}
+.button3:hover {
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.outerContainer {
+  display: flex;
+  flex-direction: row;
+  padding-top: 10px;
+  margin-top:10px;
+  border-style: solid;
+  border-radius: 15px;
+}
+
+.topOuter {
+  display: flex;
+  flex-direction: row;
+}
+
+.logo {
+  padding-left: 10px;
+  height: 100px;
+  object-fit: contain;
+
+}
+.outer {
+  margin-top: 40px;
+}
+
+.outerContainer2 {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+.styleRight {
+  margin-left: 180px;
+}
+.styleRight2 {
+  margin-left: 170px;
+}
+.button {
+  width: 100px;
+}
+
+.container2 {
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+}
+
+.outerContainer:hover {
+  display: flex;
+  flex-direction: row;
+  padding-top: 10px;
+  margin-top:10px;
+  border-style: solid;
+  border-radius: 15px;
+  background-color: rgb(199, 200, 201);
+}
+
+/* The Modal (background) */
+.modal {
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+.modalAdmin {
+    position: absolute;; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    right: 0px;
+    bottom: 0px;
+
+    overflow: auto; /* Enable scroll if needed */
+ /* Black w/ opacity */
+}
+
+.modalAdminContent {
+    margin: auto;
+    margin-top: -30px;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 500px;
+    overflow-y: none;
+    height: 400px;
+    background-color: rgba(234, 235, 237);
+}
+
+.adminDD {
+  display: flex;
+  margin-top: -30px;
+  flex-direction: row;
+  align-items: center;
+}
+
+.dropDown {
+  margin-left: 25px;
+  height: 25px;
+}
+
+.closeAdmin {
+  position: absolute;
+  top: 20px;
+  right: 20px
+}
+
+/* Modal Content */
+.modal-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 50%;
+}
+
+.internal {
+  padding-top: 50px;
+  display: flex;
+  flex-direction: column;
+}
+
+.internal2 {
+  display: flex;
+  flex-direction: row;
+}
+
+.spacer {
+  padding-right: 160px;
+}
+.spacer2 {
+  padding-right: 10px;
+}
+.leftImage {
+  margin-top: -7px;
+  padding-left: 5px;
+  padding-right: 5px;
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+  mix-blend-mode: multiply;
+}
+
+body, html {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+.container {
+  width: 100%;
+  height: 100%;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.pushDown {
+   top: 50px;
+}
+
+.leftpane {
+	width: 25%;
+	height: 100%;
+	float: left;
+	padding: 10px;
+	border-collapse: collapse;
+	overflow-y: scroll;
+  margin-top: -25px;
+}
+
+.sortOptions {
+  width: 100%;
+  height: 30px;
+}
+
+.middlepane {
+	width: 48%;
+	height: 421px;
+	float: left;
+	border-radius: 15px;
+	border-collapse: collapse;
+  margin-top: -25px;
+  padding-bottom: 10px;
+}
+
+.price {
+	background-color: white;
+}
+
+.cart {
+  width: 60px;
+  height: 60px;
+}
+
+.checkoutView {
+  margin-left: 230px;
+  width: 40%;
+  height: 500px;
+  position: relative;
+  margin-top: 20px;
+  border-radius: 15px;
+  padding: 15px;
+  border-collapse: collapse;
+}
+
+.rightpane {
+  width: 24%;
+  height: 50%;
+  position: absolute;
+  left: 74.4%;
+  border-radius: 15px;
+  padding: 15px;
+  border-collapse: collapse;
+  margin-top: -25px;
+}
+
+.rightpane2 {
+  width: 30%;
+  height: 500px;
+  position: relative;
+  float: right;
+  margin-top: 20px;
+  border-radius: 15px;
+  padding: 15px;
+  border-collapse: collapse;
+}
+
+.line {
+  margin-top: 8px;
+  border-style: inset;
+   border-width: 1px;
+   border-color: black;
+}
+
+.toppane {
+  width: 100%;
+  height: 10%;
+  border-collapse: collapse;
+  padding-bottom: 30px;
+  margin-top: -45px;
+}
+
+.imageOverlay {
+  position: relative;
+}
+
+.center {
+  display: block;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 300px;
+  width: 300px;
+  object-fit: cover;
+}
+.showMe {
+    position: absolute;
+    padding-left: 10px;
+    padding-right: 10px;
+    bottom: 0px;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    width: 280px;
+    height: 0;
+    overflow: hidden;
+    transition: 1.5s ease;
+}
+
+.imageOverlay:hover .showMe {
+  height: 45%;
+}
+
+
+.bitcoin {
+  display: inline-flex;
+  float: right;
+  background: white;
+  margin-top: -3px;
+}
+
+.heightAdder {
+  height: 30px;
+}
+
+li {
+  list-style-type: none;
+}
+
+.textLine {
+  margin-top: 10px;
+}
+
+.label {
+  padding-left: 2px;
+}
+.inputPayInfo {
+  float: right;
+  margin-right: 200px;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+}
+
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+}
+
+.tooltiptext {
+    visibility: hidden;
+    width: 220px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 35%;
+    margin-left: -60px;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}
+
+.topnav {
+  width: 100vw;
+  height: 50px;
+  margin-bottom: 25px;
+  margin-top: -15px;
+}
+
+
+.topnav button {
+  background-color: inherit;
+	border: none;
+	font: inherit;
+	outline: inherit;
+  float: left;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.unStyle:hover {
+  background-color: #ddd;
+}
+
+.cartScroll {
+  height: 220px;
+  overflow: auto;
+}
+
+.secondaryCartScroll {
+  height: 300px;
+  overflow: auto;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
